@@ -4,6 +4,17 @@ display:flex;
 
 }
 
+footer a {
+    text-decoration: none;
+    color: white;
+}
+
+nav a {
+    text-decoration: none;
+    color: #18392b;
+    font-weight: 600;
+}
+
 @media(max-width:768px){
 
 .desktop-menu{
